@@ -1,0 +1,9 @@
+body {
+  font-family: 'muli' sans-serif;
+  width: 650px ;
+  margin-left: auto;
+  background-image: repeating-linear-gradient(white, gray, black );
+}
+
+h1,
+h2
