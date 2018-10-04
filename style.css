@@ -1,5 +1,6 @@
 /* Created 10/2/2018 by Victor Nekhlyudov - Project 1 Stylesheet */
 h1 {font-family: 'Righteous', cursive; text-align: center;}
 p {font-family: 'K2D', sans-serif; text-indent: 2em}
+footer {text-align: center; margin: 1em; font-family: 'Righteous', cursive;}
 img.img1 {float: left;}
 img.img2 {float: right;}
