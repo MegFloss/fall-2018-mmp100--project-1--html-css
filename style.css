@@ -4,7 +4,8 @@ body {background-color: darkgrey;
       color: midnightblue;}
 h1 {font-family: 'Righteous', cursive; text-align: center; color: lightblue}
 p {font-family: 'K2D', sans-serif; text-indent: 1em;}
-footer {text-align: center; margin: 1em; font-family: 'Righteous', cursive;}
+footer {text-align: center; margin: 1em; font-family: 'Righteous', cursive;
+        color: lightblue;}
 img.img1 {float: left; margin-right: 1em}
 img.img2 {float: right; margin-left: 1em}
 img {width: 25%; min-width: 150px; height: auto;}
