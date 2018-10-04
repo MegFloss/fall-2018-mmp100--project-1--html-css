@@ -1,8 +1,8 @@
 /* Created 10/2/2018 by Victor Nekhlyudov - Project 1 Stylesheet */
 h1 {font-family: 'Righteous', cursive; text-align: center;}
-p {font-family: 'K2D', sans-serif; text-indent: 1em}
+p {font-family: 'K2D', sans-serif; text-indent: 1em; margin: 3em;}
 footer {text-align: center; margin: 1em; font-family: 'Righteous', cursive;}
-img.img1 {float: left;}
-img.img2 {float: right;}
-img {width: 25%; max-width: 100%; height: auto;}
-div {margin: 1em 4em; height: 450px;}
+img.img1 {float: left; margin-right: 3em}
+img.img2 {float: right; margin-left: 3em}
+img {width: 25%; min-width: 150px; height: auto;}
+div.intdiv {border: 1px solid red; margin: 0 18%; height: 30%;}
