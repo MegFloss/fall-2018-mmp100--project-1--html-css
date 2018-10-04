@@ -1,10 +1,11 @@
 /* Created 10/2/2018 by Victor Nekhlyudov - Project 1 Stylesheet */
-body {background-color: darkgrey;}
-h1 {font-family: 'Righteous', cursive; text-align: center; color: midnightblue;}
-p {font-family: 'K2D', sans-serif; text-indent: 1em; color: midnightblue;}
+body {background-color: darkgrey; color: midnightblue;}
+h1 {font-family: 'Righteous', cursive; text-align: center;}
+p {font-family: 'K2D', sans-serif; text-indent: 1em;}
 footer {text-align: center; margin: 1em; font-family: 'Righteous', cursive;}
 img.img1 {float: left; margin-right: 1em}
 img.img2 {float: right; margin-left: 1em}
 img {width: 25%; min-width: 150px; height: auto;}
-div.intdiv {height: 30%;}
-div {background-color: lightgrey; margin: 0 18%}
+div.intdiv {height: 30%; margin: 0 18%}
+div.extdiv {background-color: lightgrey; margin: 0 18%;
+            border: 20px solid midnightblue; border-style: outset;}
