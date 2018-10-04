@@ -2,7 +2,7 @@
 body {background-color: darkgrey;
       background-image: url("https://farm4.staticflickr.com/3443/5789887920_aa0323b322_b.jpg");
       color: midnightblue;}
-h1 {font-family: 'Righteous', cursive; text-align: center;}
+h1 {font-family: 'Righteous', cursive; text-align: center; color: lightblue}
 p {font-family: 'K2D', sans-serif; text-indent: 1em;}
 footer {text-align: center; margin: 1em; font-family: 'Righteous', cursive;}
 img.img1 {float: left; margin-right: 1em}
