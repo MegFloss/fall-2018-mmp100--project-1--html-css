@@ -1,0 +1,14 @@
+/* Created 10/2/2018 by Victor Nekhlyudov - Project 1 Stylesheet */
+body {background-color: darkgrey;
+      background-image: url("https://farm4.staticflickr.com/3443/5789887920_aa0323b322_b.jpg");
+      color: midnightblue;}
+h1 {font-family: 'Righteous', cursive; text-align: center; color: lightblue}
+p {font-family: 'K2D', sans-serif; text-indent: 1em;}
+footer {text-align: center; margin: 1em; font-family: 'Righteous', cursive;
+        color: lightblue}
+img.img1 {float: left; margin-right: 1em}
+img.img2 {float: right; margin-left: 1em}
+img {width: 25%; min-width: 125px; height: auto;}
+div.intdiv {height: 30%; margin: 0 18%}
+div.extdiv {background-color: lightgrey; margin: 0 18%;
+            border: 20px solid midnightblue; border-style: outset;}
