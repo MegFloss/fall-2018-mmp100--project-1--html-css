@@ -1,29 +1,34 @@
-	html{
+html{
 
-  background-color: #4867BB;
+  background: linear-gradient(#e66465, #9198e5);
 
 }
-	h1 {
+h1 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+#Image1{
+      text-align: center;
+}
+
+h3 {
 
   text-align: center;
   font-family: 'Merriweather', serif;
-  font-style: italic;
 }
 
-
-	p {
+#ListItems{
 
   text-align: center;
+}
+
+li {
   font-family: 'Raleway', sans-serif;
-
+  text-align: center;
 }
-	div {
-
-	text-align: center;
-  	font-family: 'Raleway', sans-serif;
-}
-	
-	#Image1 {
-		text-align: center;
-	}
-
