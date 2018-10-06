@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 h1,
 h2{
+=======
+  background: linear-gradient(#e66465, #9198e5);
+>>>>>>> 9bc9b8983a4e0bb58fc6250a7df9583bf9c84f9e
 
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -14,4 +18,24 @@ body {
     font-family: 'Raleway', sans-serif;
     margin: auto;
     background-color: #3366ff;
+}
+
+#Image1{
+      text-align: center;
+}
+
+h3 {
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+#ListItems{
+
+  text-align: center;
+}
+
+li {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
