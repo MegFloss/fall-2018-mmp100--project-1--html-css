@@ -1,15 +1,30 @@
-html{
+	html{
 
   background-color: #4867BB;
 
 }
-h1 {
+	h1 {
+
   text-align: center;
   font-family: 'Merriweather', serif;
   font-style: italic;
+
 }
 
-p {
+
+	p {
+
   text-align: center;
   font-family: 'Raleway', sans-serif;
+
 }
+	div{
+
+	text-align: center;
+  	font-family: 'Raleway', sans-serif;
+}
+	
+	#Image1 {
+		text-align: center;
+	}
+
