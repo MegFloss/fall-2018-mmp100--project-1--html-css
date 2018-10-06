@@ -1,0 +1,22 @@
+body{
+  background-color: #42484b;
+}
+
+
+h1{
+  font-family:'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+p{
+font-family: 'Merienda', cursive;
+width: 1080px;
+margin: auto;
+color: white;
+}
+
+div{
+
+  text-align: center;
+}
