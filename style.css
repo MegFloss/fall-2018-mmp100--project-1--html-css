@@ -1,0 +1,38 @@
+
+html {
+  background-color:rgb(231, 76, 60);
+}
+h2 {
+font-family: 'Lobster', cursive;
+Font-size: 48px;
+}
+body {
+  font-family: 'Signika', sans-serif;
+  font-size: 16px;
+}
+p {
+  text-align: center;
+  Font-size: 10px;
+  float:left;
+}
+img {
+  border: 15px solid brown;
+  padding:0px;
+  spacing:0px;
+  margin:0px;
+  float:left;
+}
+h1{
+  font-family: 'Signika', sans-serif;
+  font-size: 40px;
+  text-align:center;
+  }
+ h5 {
+  font-family: 'Signika', sans-serif;
+  font-size: 40px;
+  text-align:center;
+}
+ul{
+  font-family: 'Signika', sans-serif;
+  font-size: 25px;
+  }
