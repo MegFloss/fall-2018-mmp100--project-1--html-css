@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: 'Overlock SC', cursive;
+  font-size: 40px;
+}
+h1 {
+font-family: 'Over the Rainbow', cursive;
+font-size: 130px;
+color: red;
+}
+img {
+  float:left;
+}
