@@ -1,8 +1,18 @@
-html{
-  welcomew= to syed page-break-inside:
-}
-body{
-  background-color: gray;
 
-  font-family: 'libre', cursive;
+
+  body{
+  background-color: rgb(211, 211, 211);
+  font-family: 'libre' sans-serif;
+  font-size: 48px;
+  }
+
+h1 {
+  font-family: 'Libre Barcode 39 Extended Text', cursive;
+  text-align: center;
+}
+
+h2{
+  font-family: 'Cutive Mono', monospace;
+  font-size: 22px
+
 }
