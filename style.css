@@ -1,8 +1,11 @@
-html{
-  welcomew= to syed page
-}
+
 body{
   background-color: blue;
+  margin: auto;
 
  font-family: 'Lobster', cursive;
+}
+
+p {
+  text-align: center;
 }
