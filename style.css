@@ -34,7 +34,7 @@ h3 {
   font-family: 'Merriweather', serif;
 }
 
-#ListItems{
+ol {
 
   text-align: center;
 }
@@ -42,4 +42,12 @@ h3 {
 li {
   font-family: 'Raleway', sans-serif;
   text-align: center;
+}
+
+.image-container {
+  text-align: center;
+}
+
+ol {
+  list-style-type: none;
 }
