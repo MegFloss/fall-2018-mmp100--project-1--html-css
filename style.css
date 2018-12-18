@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  margin: 0 120px;
+  background-color: grey;
+}
+
+h1{
+  color: white;
+  font-family: 'Merriweather', serif;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
